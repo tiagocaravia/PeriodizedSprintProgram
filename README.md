@@ -1,6 +1,6 @@
 # Periodized Sprint Training System
 
-A full sprint & strength training program built for high school sprinters, designed around sports science principles and performance tracking. Used to improve personal 100m from 12.29→11.48 and long jump from 17'4" to 19'5".
+A full sprint & strength training program built for high school sprinters, designed around sports science principles and performance tracking. Used to improve personal 100m from 12.29→11.48 and long jump from 17'4"→19'6" in a single offseason.
 
 ---
 
