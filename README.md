@@ -67,8 +67,8 @@ Once you hit a new PR on the track, update it in the calculator. It will output 
 
 | Metric | Before | After |
 |--------|--------|-------|
-| 100m | 12.29s | 11.48s |
-| Long Jump | 17'4" | 19'5" |
+| 100m | 12.29s | 11.49s |
+| Long Jump | 17'4" | 19'6" |
 | Teammate 200m | 26.9s | 24.1s |
 | Teammate Long Jump | 16'8" | 19'1" |
 
