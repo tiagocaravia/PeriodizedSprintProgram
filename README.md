@@ -73,5 +73,10 @@ Once you hit a new PR on the track, update it in the calculator. It will output 
 | Teammate Long Jump | 16'8" | 19'1" |
 
 ## Usage
-Download the spreadsheet and enter your current PRs into the highlighted cells.
-The threshold calculator will automatically output your minimum target for each rep.
+
+**Spreadsheet** — Download the Excel file and enter your PRs into the highlighted cells. 
+The threshold calculator will output your minimum targets automatically. Best if you 
+want to explore the full program and standards at a glance.
+
+**Python Script** — Run `python threshold.py` for a guided CLI experience. 
+Calculates your minimum threshold, current tier, and how far you are from the next one.
