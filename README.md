@@ -71,3 +71,7 @@ Once you hit a new PR on the track, update it in the calculator. It will output 
 | Long Jump | 17'4" | 19'5" |
 | Teammate 200m | 26.9s | 24.1s |
 | Teammate Long Jump | 16'8" | 19'1" |
+
+## Usage
+Download the spreadsheet and enter your current PRs into the highlighted cells.
+The threshold calculator will automatically output your minimum target for each rep.
